@@ -18,4 +18,7 @@ kramdown:
   math_engine: mathjax
 hard_wrap: false
 
+plugins:
+  - jekyll-sitemap
+
 analytics: UA-108811272-1
