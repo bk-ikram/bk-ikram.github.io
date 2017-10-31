@@ -4,9 +4,11 @@ title: "Ikram Boukhelif's Blog"
 description: "Ikram Boukhelif's personal website and blog."
 keywords: blog data science analysis analytics student machine learning artificial intelligence
 tagline: An Industrial Engineering major with a keen interest in Data Science
+email:bk-ikram@hotmail.com
 logo: /images/me.jpg
 
 markdown: kramdown
+theme: minima
 permalink: /blog/:year/:month/:day/:title
 
 gems: [jekyll-paginate]
