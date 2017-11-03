@@ -1,19 +1,29 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
+title:             Ikram Boukhelif's Blog
+subtitle:          Data Science Blog
+email:             bk-ikram@hotmail.com
+description:       Ikram's Data Science Blog
+author:            Ikram Boukhelif
 baseurl:           ""
 url:               "http://bk-ikram.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+github_username:   bk-ikram
+facebook_username: ikram.boukhelif
 
 # Build settings
 markdown:          kramdown
+highlighter:       pygments
+permalink:         pretty
 paginate:          5
 paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  
+# Analytics
+analytics :
+  provider : google
+  google:
+    tracking_id : 'UA-108811272-1'
+  getclicky :
+site_id
