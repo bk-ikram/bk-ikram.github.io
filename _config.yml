@@ -21,9 +21,5 @@ plugins:
   - jekyll-paginate
   
 # Analytics
-analytics :
-  provider : google
-  google:
-    tracking_id : 'UA-108811272-1'
-  getclicky :
-site_id
+google_analytics:  "UA-108811272-1"
+
