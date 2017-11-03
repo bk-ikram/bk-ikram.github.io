@@ -5,6 +5,7 @@ description:       Ikram's Data Science Blog
 author:            Ikram Boukhelif
 baseurl:           ""
 url:               "http://bk-ikram.github.io"
+keywords:          blog programming Qatar analytics analysis data machine learning articifial intelligence
 
 # Social Profiles
 github_username:   bk-ikram
