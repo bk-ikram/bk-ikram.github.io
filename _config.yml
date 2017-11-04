@@ -13,7 +13,7 @@ facebook_username: ikram.boukhelif
 
 # Build settings
 markdown:          kramdown
-highlighter:       pygments
+highlighter:       rouge
 permalink:         pretty
 paginate:          5
 paginate_path:     "/posts/page:num/"
