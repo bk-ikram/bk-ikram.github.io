@@ -9,7 +9,7 @@ background: '/img/doha-qatar.jpg'
 # Data Wrangling with Open Street Map of Doha, Qatar
 ---
 The repository for this project can be found [here](https://github.com/bk-ikram/Data-Wrangling-with-MongoDB).
----
+
 ### Map Area
 
 For this project, I have decided to use data from the city of Doha in Qatar because that is where I have been living for a few years. The data was an OSM XML file downloaded from a metro extract on Mapzen. The data can found [here](https://mapzen.com/data/metro-extracts/metro/doha_qatar/).
