@@ -8,7 +8,7 @@ background: '/img/doha-qatar.jpg'
 ---
 # Data Wrangling with Open Street Map of Doha, Qatar
 ---
-The repository for this project can be found [here](https://github.com/bk-ikram/Data-Wrangling-with-MongoDB)
+The repository for this project can be found [here].(https://github.com/bk-ikram/Data-Wrangling-with-MongoDB)
 ---
 ### Map Area
 
