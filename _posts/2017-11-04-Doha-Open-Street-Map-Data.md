@@ -649,7 +649,7 @@ print "Other sports include";pprint(other_sports)
     
 
 
-![png](https://github.com/bk-ikram/bk-ikram.github.io/blob/master/img/sports-pie.png)
+![png](../img/sports-pie.png)
 
 
 As expected, football('soccer') and equestrian sports are quite popular in Qatar. I was surprised to see that there were more tennis courts than football fields.
