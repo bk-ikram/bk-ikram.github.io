@@ -1,4 +1,11 @@
-
+---
+layout: post
+title:  "Wrangling and Auditing Doha Open Street Map Data"
+subtitle: "Using Python and MongoDB to clean, process, audit, and explore Doha through its user-contributed OSM data."
+date:   2017-11-04 22:30:13 +0200
+author: "Ikram Boukhelif"
+background: '/img/doha-qatar.jpg'
+---
 # Data Wrangling with Open Street Map of Doha, Qatar
 
 ### Map Area
