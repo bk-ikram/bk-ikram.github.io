@@ -14,7 +14,7 @@ linkedin_username: ikram-boukhelif-9965a111b
 
 # Build settings
 markdown:          kramdown
-highlighter:       rouge
+highlighter:       pygments
 permalink:         pretty
 paginate:          5
 paginate_path:     "/posts/page:num/"
