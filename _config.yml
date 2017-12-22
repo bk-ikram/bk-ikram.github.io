@@ -24,6 +24,3 @@ plugins:
   
 # Analytics
 google_analytics:  "UA-108811272-1"
-
-# Comment Section
-comments:          true
