@@ -32,15 +32,14 @@ comments: true
     </div>
   </div>
 </header>
-
+{% if post.comments %}
+{% include disqus.html %}
+{% endif %}
 <div class="container">
   <div class="row">
     <div class="col-lg-8 col-md-10 mx-auto">
 
       {{ content }}
-      {% if post.comments %}
-      {% include disqus.html %}
-      {% endif %}
 
       <hr>
 
