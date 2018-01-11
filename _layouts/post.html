@@ -40,7 +40,7 @@ comments: true
       {{ content }}
 
       <hr>
-      {% if page.comments %}
+      {% if page.comments == true %}
       {% include disqus.html %}
       {% endif %}
       <div class="clearfix">
