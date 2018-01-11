@@ -41,8 +41,10 @@ comments: true
 
       <hr>
       {% if page.comments == true %}
+      <p>comments should be here</p>
       {% include disqus.html %}
       {% endif %}
+      <p>comments should be here 2</p>
       <div class="clearfix">
 
         {% if page.previous.url %}
