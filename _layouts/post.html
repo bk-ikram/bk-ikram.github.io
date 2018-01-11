@@ -38,7 +38,10 @@ comments: true
     <div class="col-lg-8 col-md-10 mx-auto">
 
       {{ content }}
-      
+      {% if page.comments %}
+      {% include disqus.html %}
+      {% endif %}
+
       <hr>
 
       <div class="clearfix">
@@ -55,6 +58,3 @@ comments: true
     </div>
   </div>
 </div>
-{% if page.comments %}
-{% include disqus.html %}
-{% endif %}
