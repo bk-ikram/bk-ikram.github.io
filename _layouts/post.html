@@ -40,9 +40,6 @@ comments: true
       {{ content }}
 
       <hr>
-      {% if page.comments %}
-      {% include disqus.html %}
-      {% endif %}
       <div class="clearfix">
 
         {% if page.previous.url %}
@@ -53,8 +50,7 @@ comments: true
         {% endif %}
 
       </div>
+    {% include disqus.html %}
     </div>
   </div>
-<p>comments should be here 6</p>
-{% include disqus.html %}
 </div>
